@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tes2</string>
+    <string name="submit">Login</string>
+    <string name="daftar">daftar</string>
+    <string name="nama">Username : </string>
+    <string name="isiusername"> Silahkan Isi Username</string>
+    <string name="isipassword"> Silahkan Isi Password</string>
+    <string name="password">Password : </string>
+    <string name="foto">foto</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="laki_laki">laki-Laki</string>
+</resources>
